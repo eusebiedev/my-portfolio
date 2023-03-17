@@ -16,10 +16,6 @@ h1 {
   font-size: 25px;
 }
 
-a {
-  color: rgb(187, 16, 156);
-}
-
 .about-section {
   margin: auto;
   float: left;
@@ -37,9 +33,14 @@ a {
   display: block;
 }
 
-.github-repo {
-  margin-top: 25px;
+.github-repo a {
   padding: 20px;
-  width: 100%;
+  width: 80%;
+  margin: auto;
   box-sizing: border-box;
+  color:blue;
+}
+
+a {
+  color: rgb(187, 16, 156);
 }
