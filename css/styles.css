@@ -27,7 +27,7 @@ h1 {
 }
 
 .section2 {
-  margin-left:  ;
+  margin-left: auto  ;
   height: auto;
   float: left;
   width: 45%;
@@ -39,7 +39,15 @@ h1 {
   margin: auto;
   padding: 20px;
   float: left;
-  width: 100%;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+.section4 {
+  margin-top: 75px;
+  padding: 20px;
+  float: right;
+  width: 50%;
   box-sizing: border-box;
 }
 
@@ -59,5 +67,6 @@ a {
 .gitimg {
   border-radius: 50%;
   width: 75px;
-  height: 75px;
+  height: auto;
+  display:block;
 }
