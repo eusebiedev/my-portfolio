@@ -1,0 +1,32 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #bc2ce;
+
+}
+
+.top-head {
+  margin: auto;
+  text-align: center;
+  border-bottom: 1px solid black;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.about-section {
+  margin: auto;
+  float: left;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  border-bottom: 1px dashed black;
+  background-color: cyan;
+}
+
+.about-img {
+  margin: auto;
+  height: auto;
+  width:50%;
+  padding-left: 10px;
+  float: right;
+  display: block;
+}
