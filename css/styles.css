@@ -2,15 +2,22 @@ body {
   font-family: 'Courier New', Courier, monospace;
   background-color: #bc2ce;
   margin: 0;
-
 }
 
 .top-head {
-  font-size: 25px;
+  font-size: 30px;
   margin: auto;
   text-align: center;
   padding: 10px;
   border-bottom: solid black;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+a {
+  color: rgb(187, 16, 156);
 }
 
 .about-section {
@@ -31,7 +38,7 @@ body {
 }
 
 .github-repo {
-  margin: auto;
+  margin-top: 25px;
   padding: 20px;
   width: 100%;
   box-sizing: border-box;
