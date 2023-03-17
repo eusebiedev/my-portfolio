@@ -1,12 +1,9 @@
 body {
   font-family: 'Courier New', Courier, monospace;
-  background-color: #bc2ce;
-  margin: 0;
 }
 
 .top-head {
   font-size: 30px;
-  margin: auto;
   text-align: center;
   padding: 10px;
   border-bottom: solid black;
@@ -22,6 +19,15 @@ h1 {
   width: 100%;
   padding: 20px;
   box-sizing: border-box;
+  display: block;
+}
+
+.github-repo {
+  font-size: 15px;
+  padding: 20px;
+  width: 90%;
+  margin-top: 100px;
+  box-sizing: border-box;
 }
 
 .about-img {
@@ -31,14 +37,6 @@ h1 {
   padding-left: 10px;
   float: right;
   display: block;
-}
-
-.github-repo a {
-  padding: 20px;
-  width: 80%;
-  margin: auto;
-  box-sizing: border-box;
-  color:blue;
 }
 
 a {
