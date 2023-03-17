@@ -29,3 +29,10 @@ body {
   float: right;
   display: block;
 }
+
+.github-repo {
+  margin: auto;
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
