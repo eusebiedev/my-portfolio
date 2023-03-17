@@ -51,14 +51,13 @@ a {
   margin-top: 25px;
   height: auto;
   width: 55%;
-  position: ;
   float: right;
   display: block;
+  box-sizing: border-box;
 }
 
 .gitimg {
   border-radius: 50%;
-  display: ;
   width: 75px;
   height: 75px;
 }
