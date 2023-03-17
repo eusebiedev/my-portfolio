@@ -1,15 +1,16 @@
 body {
   font-family: 'Courier New', Courier, monospace;
   background-color: #bc2ce;
+  margin: 0;
 
 }
 
 .top-head {
+  font-size: 25px;
   margin: auto;
   text-align: center;
-  border-bottom: 1px solid black;
   padding: 10px;
-  box-sizing: border-box;
+  border-bottom: solid black;
 }
 
 .about-section {
@@ -18,14 +19,12 @@ body {
   width: 100%;
   padding: 20px;
   box-sizing: border-box;
-  border-bottom: 1px dashed black;
-  background-color: cyan;
 }
 
 .about-img {
   margin: auto;
   height: auto;
-  width:50%;
+  width: 50%;
   padding-left: 10px;
   float: right;
   display: block;
