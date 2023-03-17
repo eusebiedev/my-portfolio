@@ -4,6 +4,8 @@
 
 #### _This application will serve as the landing page for my Epicodus Programming Portfolio_
 
+#### [Deploy Site on GH-Pages](https://eusebiedev.github.io/my-portfolio/)
+
 ## Technologies Used
 
 * _HTML_
@@ -11,7 +13,6 @@
 * _VS Code_
 * _Command Line_
 * _Git & Github Repositories_
-
 
 ## Description
 
@@ -21,12 +22,9 @@ _This application showcases the skills learned and applied after finishing the 1
 
 * _Click to open and view the website in your preferred browser_
 
-#### [Deploy Site on GH-Pages]()
-
 ## Known Bugs
 
 * _No known bugs as of 03/17/2023_
-
 
 #### [MIT](https://opensource.org/license/mit/)
 
