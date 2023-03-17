@@ -44,7 +44,7 @@ h1 {
 }
 
 .section4 {
-  margin-top: 75px;
+  margin-top: ;
   padding: 20px;
   float: right;
   width: 50%;
@@ -67,6 +67,13 @@ a {
 .gitimg {
   border-radius: 50%;
   width: 75px;
+  height: auto;
+  display:block;
+}
+
+.bgimg {
+  border-radius: 50%;
+  width: 100px;
   height: auto;
   display:block;
 }
