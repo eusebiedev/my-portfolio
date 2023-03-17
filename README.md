@@ -23,8 +23,6 @@ _This application showcases the skills learned and applied after finishing the 1
 
 #### [Deploy Site on GH-Pages]()
 
-__
-
 ## Known Bugs
 
 * _No known bugs as of 03/17/2023_
