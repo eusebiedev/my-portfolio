@@ -14,20 +14,31 @@ h1 {
 }
 
 .about-section {
-  margin: auto;
+  margin: ;
   float: left;
   width: 100%;
   padding: 20px;
   box-sizing: border-box;
-  display: block;
 }
 
 .github-repo {
   font-size: 15px;
   padding: 20px;
-  width: 90%;
-  margin-top: 100px;
+  width: 100%;
+  border: 1px dashed black;
   box-sizing: border-box;
+}
+
+.interests {
+  margin: ;
+  float: left;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+a {
+  color: rgb(187, 16, 156);
 }
 
 .about-img {
@@ -37,8 +48,4 @@ h1 {
   padding-left: 10px;
   float: right;
   display: block;
-}
-
-a {
-  color: rgb(187, 16, 156);
 }
