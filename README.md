@@ -20,7 +20,9 @@ _This application showcases the skills learned and applied after finishing the 1
 
 ## Setup/Installation Requirements
 
-* _Click to open and view the website in your preferred browser_
+* _Clone Project_
+* _Navigate to the "my-portfolio" project folder root directory_
+* _Locate and open the index.html in your browswer_
 
 ## Known Bugs
 
@@ -28,6 +30,12 @@ _This application showcases the skills learned and applied after finishing the 1
 
 #### [MIT](https://opensource.org/license/mit/)
 
-_If you have any questions, comments, or concerns, please reach out to me at <siebenee@gmail.com>._
+Copyright (c) 03/17/2023 Eusebie Siebenberg
 
-Copyright (c) _03/17/2023_ _Eusebie Siebenberg_
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+If you have any questions, comments, or concerns, please reach out to me at siebenee@gmail.com.
