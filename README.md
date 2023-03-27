@@ -30,7 +30,7 @@ _This application showcases the skills learned and applied after finishing the 1
 
 ## License
 
-## [MIT](https://opensource.org/license/mit/)
+#### [MIT](https://opensource.org/license/mit/)
 
 Copyright (c) 03/17/2023 Eusebie Siebenberg
 
