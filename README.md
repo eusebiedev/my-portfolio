@@ -2,7 +2,7 @@
 
 #### By Eusebie Siebenberg
 
-#### _This application will serve as the landing page for my Epicodus Programming Portfolio_
+#### _This is a practice landing page for my Epicodus programming portfolio_
 
 #### [Deploy Site on GH-Pages](https://eusebiedev.github.io/my-portfolio/)
 
